@@ -152,3 +152,4 @@ This project is optimized for zero-configuration deployment on [Vercel](https://
 ## 📄 License
 
 MIT License. Designed and built as a clean, medical-grade practice assistant.
+
